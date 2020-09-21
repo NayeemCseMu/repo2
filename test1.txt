@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 48D1-3BCD
+
+ Directory of C:\Users\islam\Desktop\MyProject
+
+09/21/2020  03:16 PM    <DIR>          .
+09/21/2020  03:16 PM    <DIR>          ..
+09/21/2020  03:16 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   6,116,900,864 bytes free
